@@ -45,7 +45,7 @@ The dataset contains 3,000+ SKUs from Zepto's product catalog and includes:
 - Some expensive products had very low discounts
 - Price-per-gram analysis revealed better value products
 
-- ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 <p align="center">
   <img src="zepto-retail-dashboard.jpg" width="700"/>
 </p>
